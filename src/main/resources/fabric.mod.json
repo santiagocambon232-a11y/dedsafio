@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "dedsafio",
+	"version": "${version}",
+	"name": "Dedsafio Mod",
+	"description": "Cuchara de resurreccion y Ruleta diaria inspiradas en Dedsafio Minecraft.",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dedsafio/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.dedsafio.Dedsafio"
+		],
+		"client": [
+			"com.dedsafio.client.DedsafioClient"
+		]
+	},
+	"mixins": [
+		"dedsafio.mixins.json",
+		{
+			"config": "dedsafio.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

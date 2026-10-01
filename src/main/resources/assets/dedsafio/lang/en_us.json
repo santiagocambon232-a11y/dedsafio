@@ -1,0 +1,20 @@
+{
+  "item.dedsafio.resurrection_spoon": "Resurrection Spoon",
+  "rule.dedsafio.mobs_fast": "Faster mobs",
+  "rule.dedsafio.mobs_tough": "Mobs with double health",
+  "rule.dedsafio.mobs_strong": "Mobs deal more damage",
+  "rule.dedsafio.player_hunger": "Constant Hunger",
+  "rule.dedsafio.player_weak": "Constant Weakness",
+  "rule.dedsafio.player_slow": "Constant Slowness",
+  "rule.dedsafio.player_fatigue": "Constant Mining Fatigue",
+  "rule.dedsafio.less_hearts": "4 fewer hearts",
+  "message.dedsafio.spin": "THE ROULETTE SPINS! Day %s: %s",
+  "message.dedsafio.revived": "%s has been resurrected with the spoon!",
+  "message.dedsafio.you_died": "You died. Wait for someone to revive you with a Resurrection Spoon.",
+  "message.dedsafio.no_dead": "There is nobody to resurrect.",
+  "message.dedsafio.not_dead": "That player is not dead.",
+  "message.dedsafio.all_active": "All rules are already active.",
+  "message.dedsafio.active_rules": "Active rules:",
+  "message.dedsafio.none": " none",
+  "message.dedsafio.reset": "Roulette reset."
+}

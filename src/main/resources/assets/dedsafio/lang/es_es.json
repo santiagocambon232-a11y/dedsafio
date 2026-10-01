@@ -1,0 +1,20 @@
+{
+  "item.dedsafio.resurrection_spoon": "Cuchara de Resurrección",
+  "rule.dedsafio.mobs_fast": "Mobs más rápidos",
+  "rule.dedsafio.mobs_tough": "Mobs con el doble de vida",
+  "rule.dedsafio.mobs_strong": "Mobs con más daño",
+  "rule.dedsafio.player_hunger": "Hambre constante",
+  "rule.dedsafio.player_weak": "Debilidad constante",
+  "rule.dedsafio.player_slow": "Lentitud constante",
+  "rule.dedsafio.player_fatigue": "Fatiga de minería constante",
+  "rule.dedsafio.less_hearts": "4 corazones menos",
+  "message.dedsafio.spin": "¡LA RULETA GIRA! Día %s: %s",
+  "message.dedsafio.revived": "¡%s ha resucitado con la cuchara!",
+  "message.dedsafio.you_died": "Has muerto. Espera a que alguien te resucite con una Cuchara de Resurrección.",
+  "message.dedsafio.no_dead": "No hay nadie a quien resucitar.",
+  "message.dedsafio.not_dead": "Ese jugador no está muerto.",
+  "message.dedsafio.all_active": "Ya están todas las reglas activas.",
+  "message.dedsafio.active_rules": "Reglas activas:",
+  "message.dedsafio.none": " ninguna",
+  "message.dedsafio.reset": "Ruleta reiniciada."
+}
