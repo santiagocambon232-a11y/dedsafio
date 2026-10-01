@@ -1,3 +1,4 @@
+
 name: build
 
 on:
@@ -17,10 +18,9 @@ jobs:
           distribution: temurin
 
       - run: chmod +x ./gradlew
-
       - run: ./gradlew build
 
       - uses: actions/upload-artifact@v4
         with:
-          name: Artifacts
-          path: build/libs/
+          name: Dedsafio-Mod
+          path: build/libs/*.jar
